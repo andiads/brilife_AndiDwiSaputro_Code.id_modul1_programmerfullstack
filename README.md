@@ -20,6 +20,7 @@ Vendor: CODE.ID
 ## Java 1.8
 ## Spring Boot 2.3
 ## JSP / JSTL
+## Lombok
 ## MySQL
 ## Maven
 ## Bootstrap & AdminLTE CSS
